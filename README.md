@@ -7,6 +7,13 @@ A Web Store application using ASP.NET MVC for Dr. MacNeil's SSE 657 class
 Goal: Aim for about 60 pages.
 Include: lots of pictures, diagrams, code snippets 
 
+Main Features: 
+User page/account page
+Store interface that shows inventory
+Home screen
+
+
+==================
 Intro:
 Problem statement. What problem are we solving.
 The customer's project/idea. A etsy-type store. 
