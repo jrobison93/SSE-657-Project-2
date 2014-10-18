@@ -3,6 +3,8 @@ SSE-657-Project-2
 
 A Web Store application using ASP.NET MVC for Dr. MacNeil's SSE 657 class
 
+**Page 55: Modifying a Scaffolding View**
+
 
 Goal: Aim for about 60 pages.
 Include: lots of pictures, diagrams, code snippets 
