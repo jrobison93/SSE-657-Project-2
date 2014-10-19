@@ -9,6 +9,7 @@ using MVCMusicStore.Models;
 
 namespace MVCMusicStore.Controllers
 {
+    [Authorize(Roles = "Administrator")]
     public class StoreManagerController : Controller
     {
         private MusicStoreEntities db = new MusicStoreEntities();
@@ -114,7 +115,6 @@ namespace MVCMusicStore.Controllers
         // POST: /StoreManager/Delete/5
 
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
             Album album = db.Albums.Find(id);
