@@ -3,7 +3,7 @@ SSE-657-Project-2
 
 A Web Store application using ASP.NET MVC for Dr. MacNeil's SSE 657 class
 
-**Page 109: Shopping Cart with Ajax Updates**
+**Page 109: Registration and Checkout**
 
 **Note: To access Web Site Administration Tool from Visual Studio 2013, follow this tutorial:http://sirisgraphics.com/development/website-administration-tool-in-visual-studio-2013/**
 
