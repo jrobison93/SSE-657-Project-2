@@ -16,6 +16,7 @@ Home screen
 
 
 ==================
+**<John>**
 Intro:
 Problem statement. What problem are we solving.
 The customer's project/idea. A etsy-type store. 
