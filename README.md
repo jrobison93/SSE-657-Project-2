@@ -28,10 +28,10 @@ Home screen
   - (1/2 page)
 
 
-- [ ] Commonality vs. Variablity (**John**):
-  - [ ] What other systems are our project similar to?
-  - [ ] Which systems are our project not like?
-  - [ ] Include inspiration for our project here? Is it something that does not already exist?
+- [x] Commonality vs. Variablity (**John**):
+  - [x] What other systems are our project similar to?
+  - [x] Which systems are our project not like?
+  - [x] Include inspiration for our project here? Is it something that does not already exist?
   - (1/2 page)
 
 
