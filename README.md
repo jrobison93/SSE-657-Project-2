@@ -10,14 +10,34 @@ Goal: Aim for about 60 pages.
 Include: lots of pictures, diagrams, code snippets 
 
 Main Features: 
-User page/account page
-Store interface that shows inventory
-Home screen
+- User page/account page
+- Store interface that shows inventory
+- Home screen
 
 
 ==================
 
-- [x] Intro(**John**):
+- [ ] Introduction (**John**):
+  - A section describing the purpose of the report as well as what parts of the text were covered.
+  - Chapter 6:
+    - Breaking a large problem into smaller, more managable chunks
+	- Features
+	- Use Case Diagrams
+	- Domain Analysis
+	- MVC Design Pattern
+  - Chapter 7:
+    - Determining Architectural Significance
+	- Scenarios
+	- Risk Reduction
+  - Chapter 8: 
+    - Design Principles:
+	  - OCP
+	  - DRY
+	  - SRP
+	  - LSP
+	
+
+- [x] Problem Statement(**John**):
   - [x] Problem statement. What problem are we solving.
   - [x] The customer's project/idea. A etsy-type store. 
   - [x] What is our project. What does the project do. Purpose of the project.
@@ -35,10 +55,10 @@ Home screen
   - (1/2 page)
 
 
-- [ ] Features/Requirements: 
-  - [ ] List and provide descriptions all the features/functionality of the project. 
-  - [ ] Underneath each feature, list the requirements for the feature to work
-  - [ ] Also provide descriptions of each requirements
+- [x] Features/Requirements(**John**): 
+  - [x] List and provide descriptions all the features/functionality of the project. 
+  - [x] Underneath each feature, list the requirements for the feature to work
+  - [x] Also provide descriptions of each requirements
   - (3-4 pages)
 
 
