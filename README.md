@@ -17,7 +17,7 @@ Main Features:
 
 ==================
 
-- [ ] Introduction (**John**):
+- [x] Introduction (**John**):
   - A section describing the purpose of the report as well as what parts of the text were covered.
   - Chapter 6:
     - Breaking a large problem into smaller, more managable chunks
@@ -67,8 +67,8 @@ Main Features:
   - (1/2 page)
 
 
-- [ ] Use Case Diagrams:
-  - [ ] What should a user be able to do on the project?
+- [x] Use Case Diagrams (**John**):
+  - [x] What should a user be able to do on the project?
   - (1 page)
 
 
