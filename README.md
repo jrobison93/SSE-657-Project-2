@@ -83,11 +83,19 @@ Main Features:
   - (3 pages)
 
 
-- [ ] The three Qs of architecture:
-  - [ ] Determine the core functionality of the project. 
-  - [ ] Where do we start programming? 
-  - [ ] Explain why we designated those functions as most significant.
+- [x] The three Qs of architecture (**John**):
+  - [x] Determine the core functionality of the project. 
+  - [x] Where do we start programming? 
+  - [x] Explain why we designated those functions as most significant.
   - (1 page)
+  
+- [ ] Additional Discussion With Customer:
+  - [ ] Discuss Product Listings
+    - [ ] Categories required
+	- [ ] Listing format
+	- [ ] Similar products
+  - [ ] Additional information that is deemed necessary
+  - (1/2 page)
 
 
 - [ ] Risk Reduction:
