@@ -104,6 +104,7 @@ Main Features:
 
 
 - [ ] Design Principles:
+  - [x] Define the used Design Principles (**John**)
   - [ ] For each sub-system (use about 4):
     - [ ] Home Page
 	- [ ] User Account
