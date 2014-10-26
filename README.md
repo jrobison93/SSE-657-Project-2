@@ -44,7 +44,7 @@ Main Features:
   - (1/2 page)
 
 
-- [ ] Mock Discussion with Customer:
+- [x] Mock Discussion with Customer (**Tanya**):
   - (1/2 page)
 
 
@@ -55,15 +55,15 @@ Main Features:
   - (1/2 page)
 
 
-- [x] Features/Requirements(**John**): 
+- [x] Features/Requirements(**John and Tanya**): 
   - [x] List and provide descriptions all the features/functionality of the project. 
   - [x] Underneath each feature, list the requirements for the feature to work
   - [x] Also provide descriptions of each requirements
   - (3-4 pages)
 
 
-- [ ] Domain Analysis:
-  - [ ] Re-descript the project/problem in a way that the customer will understand.
+- [x] Domain Analysis (**Tanya):
+  - [x] Re-descript the project/problem in a way that the customer will understand.
   - (1/2 page)
 
 
@@ -89,7 +89,7 @@ Main Features:
   - [x] Explain why we designated those functions as most significant.
   - (1 page)
   
-- [ ] Additional Discussion With Customer:
+- [ ] Additional Discussion With Customer (**Tanya**):
   - [ ] Discuss Product Listings
     - [ ] Categories required
 	- [ ] Listing format
@@ -114,7 +114,7 @@ Main Features:
   - (6 pages)
 
 
-- [ ] Scenario:
+- [x] Scenario (**John**):
   - [x] Show that the system works.
   - [x] Walk through the system and describe what is happening.
   - [x] Show screenshots of input and output.
