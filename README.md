@@ -115,15 +115,16 @@ Main Features:
 
 
 - [ ] Scenario:
-  - [ ] Show that the system works.
-  - [ ] Walk through the system and describe what is happening.
-  - [ ] Show screenshots of input and output.
-  - [ ] Scenarios:
-    - [ ] Account Registration
-	- [ ] Editing an account
-	- [ ] Creating a product listing
-	- [ ] Editing a product listing
-	- [ ] Purchasing a product
+  - [x] Show that the system works.
+  - [x] Walk through the system and describe what is happening.
+  - [x] Show screenshots of input and output.
+  - [x] Scenarios:
+    - [x] Account Registration (**John**: _Add correct pictures_)
+	- [x] Editing an account (**John**: _Add correct pictures_)
+	- [x] Creating a product listing (**John**: _Add correct pictures_)
+	- [x] Editing a product listing (**John**: _Add correct pictures_)
+	- [x] Purchasing a product with an account (**John**: _Add correct pictures_)
+	- [x] Purchasing a product without an account (**John**: _Add correct pictures_)
   - (10 pages). 
 
 
