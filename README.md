@@ -98,13 +98,16 @@ Main Features:
   - (1/2 page)
 
 
-- [ ] Risk Reduction:
-  - [ ] Steps we are taking to reduce risk. 
+- [x] Risk Reduction (**John**):
+  - [x] Steps we are taking to reduce risk. 
   - (1/2 page)
 
 
 - [ ] Design Principles:
   - [ ] For each sub-system (use about 4):
+    - [ ] Home Page
+	- [ ] User Account
+	- [ ] Product Listings
   - [ ] How the system works. How did we use design principles in the creation of the project.
   - [ ] Include code snippets and screenshots.
   - (6 pages)
@@ -114,6 +117,12 @@ Main Features:
   - [ ] Show that the system works.
   - [ ] Walk through the system and describe what is happening.
   - [ ] Show screenshots of input and output.
+  - [ ] Scenarios:
+    - [ ] Account Registration
+	- [ ] Editing an account
+	- [ ] Creating a product listing
+	- [ ] Editing a product listing
+	- [ ] Purchasing a product
   - (10 pages). 
 
 
