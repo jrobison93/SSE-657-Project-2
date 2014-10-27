@@ -62,7 +62,7 @@ Main Features:
   - (3-4 pages)
 
 
-- [x] Domain Analysis (**Tanya):
+- [x] Domain Analysis (**Tanya**):
   - [x] Re-descript the project/problem in a way that the customer will understand.
   - (1/2 page)
 
@@ -103,14 +103,14 @@ Main Features:
   - (1/2 page)
 
 
-- [ ] Design Principles:
+- [x] Design Principles:
   - [x] Define the used Design Principles (**John**)
-  - [ ] For each sub-system (use about 4):
-    - [ ] Home Page
-	- [ ] User Account
-	- [ ] Product Listings
-  - [ ] How the system works. How did we use design principles in the creation of the project.
-  - [ ] Include code snippets and screenshots.
+  - [x] For each sub-system (use about 4):
+    - [x] Home Page
+	- [x] User Account
+	- [x] Product Listings
+  - [x] How the system works. How did we use design principles in the creation of the project.
+  - [x] Include code snippets and screenshots.
   - (6 pages)
 
 
