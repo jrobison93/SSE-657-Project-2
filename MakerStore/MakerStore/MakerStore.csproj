@@ -326,9 +326,11 @@
     <Content Include="Views\Store\Details.cshtml" />
     <Content Include="Views\Store\CategoryMenu.cshtml" />
     <Content Include="Views\Store\Index.cshtml" />
+    <Content Include="Views\Account\Index.cshtml" />
+    <Content Include="Views\Account\Update.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\App_LocalResources\" />
+    <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

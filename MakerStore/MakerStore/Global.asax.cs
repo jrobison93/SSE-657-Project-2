@@ -16,7 +16,7 @@ namespace MakerStore
     {
         protected void Application_Start()
         {
-            //System.Data.Entity.Database.SetInitializer(new MakerStore.Models.SampleData());
+            System.Data.Entity.Database.SetInitializer(new MakerStore.Models.SampleData());
 
             AreaRegistration.RegisterAllAreas();
 

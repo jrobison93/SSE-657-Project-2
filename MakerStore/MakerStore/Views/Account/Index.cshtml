@@ -1,0 +1,19 @@
+﻿@model MakerStore.Models.UserProfile
+
+@{
+    ViewBag.Title = @User.Identity.Name;
+}
+
+<h2>@User.Identity.Name</h2>
+
+<h3>Biography</h3>
+
+<h3>Update Account Information</h3>
+<ol>
+    <li>
+        @Html.ActionLink("Update Account Information", "Update", "Account")
+    </li>
+    <li>
+        @Html.ActionLink("Manage Password", "Manage", "Account")
+    </li>
+</ol>

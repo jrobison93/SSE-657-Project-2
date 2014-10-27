@@ -18,6 +18,13 @@ namespace MakerStore.Controllers
     public class AccountController : Controller
     {
         //
+        // GET: /Account/
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        //
         // GET: /Account/Login
 
         [AllowAnonymous]
@@ -120,6 +127,14 @@ namespace MakerStore.Controllers
             }
 
             return RedirectToAction("Manage", new { Message = message });
+        }
+
+        //
+        // GET: /Account/Update
+
+        public ActionResult Update()
+        {
+            return View();
         }
 
         //

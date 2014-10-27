@@ -1,0 +1,50 @@
+﻿@model MakerStore.Models.UserProfile
+
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+
+<h3>Update Account Information</h3>
+
+@if (Request.IsAuthenticated)
+{
+
+    <fieldset>
+        <legend>Update Account Information</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.Biography)
+                @Html.TextBoxFor(m => m.Biography)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.PictureURL)
+                @Html.TextBoxFor(m => m.PictureURL)
+            </li>
+        </ol>
+        <input type="submit" value="Update Information" />
+    </fieldset>
+}
+else
+{
+    <p>You are not logged in.</p>
+}
+
+
+
+<fieldset>
+    <legend>Update Account Information</legend>
+    <ol>
+        <li>
+           
+        </li>
+        <li>
+           
+        </li>
+        <li>
+            
+        </li>
+    </ol>
+    <input type="submit" value="Update Information" />
+</fieldset>

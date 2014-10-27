@@ -26,7 +26,7 @@ namespace MakerStore.Controllers
 
         public ActionResult Browse(string category)
         {
-            // Retrieve Genre and its Associated Albums from database
+            // Retrieve Category and its Associated Products from database
             var categoryModel = storeDB.Categories.Include("Products").Single(c => c.Name == category);
 
             return View(categoryModel);
@@ -42,7 +42,7 @@ namespace MakerStore.Controllers
         }
 
         //
-        // GET: /Store/GenreMenu
+        // GET: /Store/CategoryMenu
 
         [ChildActionOnly]
         public ActionResult CategoryMenu()
